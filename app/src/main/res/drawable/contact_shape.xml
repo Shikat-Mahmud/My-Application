@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/contact_shape" ></solid>
+    <size android:height="112dp" android:width="280dp"></size>
+    <corners
+        android:bottomRightRadius="50dp"
+        android:bottomLeftRadius="10dp"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="15dp"
+        ></corners>
+</shape>
